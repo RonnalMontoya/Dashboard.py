@@ -1,5 +1,5 @@
-Adaptaciones en Dashboard.py:
-He realizado las siguientes mejoras y adaptaciones:
+Adaptaciones en Dashboard.py
+Se realizaron las siguientes mejoras y adaptaciones:
 Documentación: Agregué comentarios descriptivos en el código para mayor claridad.
 Funcionalidad adicional: Añadí opciones para listar los archivos disponibles en una carpeta específica, y para agregar nuevas rutas de scripts al menú dinámicamente.
 Interfaz mejorada: Mejoré la presentación del menú para hacerlo más claro y fácil de usar.
